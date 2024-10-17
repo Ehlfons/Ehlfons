@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I’m @Ehlfons<br>👀 I'm interested in web development and design<br>🌱 I am currently learning web development<br>💞️ I seek to collaborate in any project in order to learn and develop my career<br>📫 The way to contact me can be by email or through any of my social networks
+👋 Hola, soy @Ehlfons<br>👀 Estoy interesado en el desarrollo y diseño web<br>🌱 Actualmente estoy aprendiendo desarrollo web<br>💞️ Busco colaborar en cualquier proyecto para poder aprender y desarrollar mi carrera <br>📫 Puede contactarme por correo electrónico o a través de mis redes sociales
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%23768bd3?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/510027815694106635) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230d78b0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-alfonso-deltell) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ehlfons.designs) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ehlfonsdesigns) [![Github Site](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ehlfons.github.io) 
